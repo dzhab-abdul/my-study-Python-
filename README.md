@@ -1,1 +1,1 @@
-# my-study-Python-
+# my-study (Python)
